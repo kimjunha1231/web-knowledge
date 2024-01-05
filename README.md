@@ -1,5 +1,5 @@
 # useRef랑 useState차이
-
+```
 import { useRef, useState } from "react";
 
 export default function Player() {
@@ -21,3 +21,4 @@ export default function Player() {
     </section>
   );
 }
+```
